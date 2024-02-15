@@ -1,6 +1,10 @@
 # Rick and Morty Course
 
-![Rick and Morty Course](./assets/rick_and_morty.jpg)
+[![Imagen 1](./assets/Img_Rick-Morty.png)])
+[![Imagen 2](./assets/Img_Rick-Morty-2.png)]
+
+## Link of page
+-[Link]_(https://glistening-smakager-931c3c.netlify.app/)
 
 ## Table of Contents
 
